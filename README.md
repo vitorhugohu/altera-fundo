@@ -15,42 +15,43 @@ Alternativamente, você também pode utilizar a extensão [Live Server](https://
 ## 🕹️ Como usar este projeto
 Uma vez que a aplicação esteja rodando, você pode clicar nos circulos coloridos que são mostrados na página para alterar a cor de fundo página. A cor será alterada de acordo com o botão que você pressionar.
 
-## Tecnologias usadas no projeto
+## ⚙️ Tecnologias usadas no projeto
 - HTML
 - CSS
 - Javascript
 
-## Features do projeto
+## 📋 Features do projeto
 - 5 botões com cores diferentes que alteram a cor de fundo da página
 - Subtítulo que é atualizado conforme a cor atual da página
 
-## Como este projeto está organizado
+## 📁 Como este projeto está organizado
 Na pasta raiz do projeto, existem três arquivos de código:
 - index.html -> contém o html da aplicação
 - style.css -> contém os estilos da aplicação
 - script.js -> contém o código javascript da aplicação
 
-## Como este projeto foi implementado
+## 🧠 Como este projeto foi implementado
 Este projeto foi implementado com HTML, CSS e Javascript.
 
 No Javascript os botões definidos no HTML são capturados atráves de um getElementsByTagName e é adicionado um event listener a cada um desses botões.
 
 Ao cliquar em um botão, é disparado um evento que irá alterar a cor de fundo da página e o título de segunda importância será atualizado com o código da cor, que está armazenado em um array.
 
-## Dependências Principais
+## 📦 Dependências Principais
 Não temos dependências no projeto.
 
-## Links úteis
+## 🔗 Links úteis
 - [Paleta de cores](https://coolors.co/palette/d94e33-2c5697-ed9b33-8a9b8e-2d2926-f4e5de-dde5ed-f8f1e0-d7d2cb-dfdede)
 
-## Como contribuir com o projeto
+## 👥 Como contribuir com o projeto
 [Clique aqui](./CONTRIBUTING.md) para ver as diretrizes de contribuição
 
-## Pessoas que contribuiram com o projeto
+## 🧑‍💻 Pessoas que contribuiram com o projeto
 - [Vitor Hugo](https://github.com/vitorhugohu) - mantededor do projeto
 
-## Precisa de ajuda?
+## 🆘 Precisa de ajuda?
 Você pode contatar o Vitor Hugo (mantededor do projeto) em vitorhuabmo@gmail.com
+
 
 
 
