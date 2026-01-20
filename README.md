@@ -52,6 +52,5 @@ Não temos dependências no projeto.
 ## 🆘 Precisa de ajuda?
 Você pode contatar o Vitor Hugo (mantededor do projeto) em vitorhuabmo@gmail.com
 
-
-
-
+----------------
+<p align="center">Feito com ☕ por Vitor Hugo</p>
