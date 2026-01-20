@@ -3,15 +3,16 @@
   <img src="./imagens/imagem1.png" alt="Tela Inicial" width="400px"></img>
    <img src="./imagens/capa.gif" alt="Aplicação funcionando" width="400px"></img>
 </p>
-## O que é este projeto
+
+## 🤔 O que é este projeto
 Este projeto é uma página feita com HTML, CSS e Javascript que contém uma série de botões coloridas para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
 
-## Como rodar este projeto
+## 💻 Como rodar este projeto
 Para rodar o projeto basta dar dois cliques no arquivo *index.html* uma vez que a pasta do projeto esteja aberta no sistema de arquivos do seu sistema operacional.
 
 Alternativamente, você também pode utilizar a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) da IDE Visual Studio Code para rodar o projeto.
 
-## Como usar este projeto
+## 🕹️ Como usar este projeto
 Uma vez que a aplicação esteja rodando, você pode clicar nos circulos coloridos que são mostrados na página para alterar a cor de fundo página. A cor será alterada de acordo com o botão que você pressionar.
 
 ## Tecnologias usadas no projeto
@@ -50,5 +51,6 @@ Não temos dependências no projeto.
 
 ## Precisa de ajuda?
 Você pode contatar o Vitor Hugo (mantededor do projeto) em vitorhuabmo@gmail.com
+
 
 
